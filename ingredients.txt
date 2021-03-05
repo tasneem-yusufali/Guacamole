@@ -1,2 +1,4 @@
 Avocados 
 Tomato
+Onion
+Peppers
